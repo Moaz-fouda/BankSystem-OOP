@@ -98,3 +98,16 @@ Contact
 LinkedIn: https://www.linkedin.com/in/moaz-fouda-93363b271/
 
 GitHub Repository: https://github.com/Moaz-fouda/BankSystem-OOP.git
+⭐ Version 3 Update — Currency Exchange System Added
+## 🚀 New in Version 3 (Major Update)
+### 🔄 Currency Exchange Module
+A complete subsystem added to the project, including:
+
+- 💱 Currency List Screen  
+- 🔍 Find Currency by Code  
+- ✏️ Update Currency Exchange Rate  
+- 🔢 Currency Calculator (Convert between currencies)  
+- 📁 File-based currency storage  
+- 🧭 Integrated with the main menu of the bank system  
+- 🎯 Uses clean OOP structure + reusable utility classes  
+
